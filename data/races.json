@@ -1,0 +1,39 @@
+{
+  "human": {
+    "attributes": {
+      "strength": 4,
+      "agility": 5,
+      "intelligence": 8,
+      "willpower": 8
+    },
+    "skills": {
+
+    }
+  },
+  "velociraptor": {
+    "attributes": {
+      "strength": 4,
+      "agility": 10,
+      "intelligence": 7,
+      "willpower": 4
+    },
+    "skills": {
+      "unarmed melee combat": 2.0,
+      "*firearms": 0.5,
+      "stealth": 3.0,
+      "hacking": 0.25
+    }
+  },
+  "android": {
+    "attributes": {
+      "strength": 6,
+      "agility": 6,
+      "intelligence": 7,
+      "willpower": 6
+    },
+    "skills": {
+      "hacking": 3.0,
+      "dodging": 0.5,
+    }
+  },
+}

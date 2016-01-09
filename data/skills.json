@@ -1,0 +1,22 @@
+{
+  "unarmed melee combat":
+    "Increases accuracy and damage during unarmed melee combat.",
+  "blunt melee weapons":
+    "Increases accuracy and damage with hammers, crowbars, etc.",
+  "bladed melee weapons":
+    "Increases accuracy and damage with knives, swords, etc.",
+  "energy melee weapons":
+    "Increases accuracy and damage with exotic energy-bladed weapons.",
+  "small firearms":
+    "Increases accuracy and firing rate with pistols and other small guns.",
+  "long firearms":
+    "Increases accuracy and firing rate with shotguns, rifles, etc.",
+  "heavy firearms":
+    "Increases accuracy and firing rate with rocket launchers and other huge guns.",
+  "dodging":
+    "Reduces the chance you'll be hit during combat, as well as the damage you take when hit.",
+  "stealth":
+    "Increases your odds of moving silently and without being seen.",
+  "hacking":
+    "Increases your odds of successfully hacking terminals and lets you hack faster."
+}
